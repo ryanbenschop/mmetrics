@@ -1,7 +1,7 @@
 # MMetrics
 
 ## Overview
-The MMetrics library provides an general Python code for the implementation of standard methods in macroeconometric modelling, with an emphasis on VAR based modelling. This library was
+The MMetrics library provides Python code for the implementation of standard methods in macroeconometric modelling, with an emphasis on VAR based modelling. This library was
 primarily developed as my own preparation for the Macroeconometrics course at the University of Oxford, as part of the MPhil in Economics, as presented in Hilary Term 2024.
 
 ## Features
